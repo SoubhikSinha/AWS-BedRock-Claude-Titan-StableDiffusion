@@ -1,1 +1,3 @@
-# AWS-BedRock
+# AWS Bedrock
+
+This repository showcases how to build and deploy **Generative AI applications on AWS Bedrock** using multiple foundation models, including **Anthropic Claude** for text and chat, **Stability AI’s Stable Diffusion** for image generation, and **Amazon Titan** for embeddings and semantic search. With clean, modular Python scripts, it provides practical examples of structuring API requests via boto3, designing prompts, tuning model parameters, and handling outputs for real-world scenarios — serving as a starter kit for developers exploring chatbots, creative design, and retrieval-augmented generation on AWS.
