@@ -1,0 +1,2 @@
+boto3 # For connecting to AWS services
+awscli # AWS Command Line Interface
