@@ -1,2 +1,7 @@
 boto3 # For connecting to AWS services
 awscli # AWS Command Line Interface
+langchain # For building language model applications
+langchain-community # Community extensions for LangChain
+pypdf # For PDF file handling
+streamlit # For building web apps
+faiss-cpu # For efficient similarity search and clustering
