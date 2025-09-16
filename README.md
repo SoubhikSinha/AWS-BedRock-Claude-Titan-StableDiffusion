@@ -1,4 +1,6 @@
-# AWS Bedrock with Claude, Titan & Stable Diffusion
+# Generative AI on AWS Bedrock with Claude, Titan & Stable Diffusion
+*Built multi-modal GenAI apps with AWS Bedrock — combining Claude for chat, Titan for embeddings, FAISS-powered RAG for retrieval, and Stable Diffusion for image generation.*
+<br>
 
 This repository demonstrates how to build **end-to-end Generative AI applications** on **AWS Bedrock** by integrating multiple foundation models into a unified, modular workflow. The project covers three primary capabilities:
 
